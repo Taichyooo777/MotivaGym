@@ -1,0 +1,22 @@
+export const motivationalQuotes = [
+    "The only bad workout is the one that didn't happen.",
+    "Your body can stand almost anything. It's your mind that you have to convince.",
+    "The pain you feel today will be the strength you feel tomorrow.",
+    "Don't stop when you're tired. Stop when you're done.",
+    "Strength does not come from the physical capacity. It comes from an indomitable will.",
+    "The harder you push yourself, the more you'll grow.",
+    "Fitness is not about being better than someone else. It's about being better than you used to be.",
+    "The only place where success comes before work is in the dictionary.",
+    "You don't have to be extreme, just consistent.",
+    "The difference between try and triumph is a little umph.",
+    "The successful warrior is the average person with laser-like focus.",
+    "Discipline is choosing between what you want now and what you want most.",
+    "The body achieves what the mind believes.",
+    "You're only one workout away from a good mood.",
+    "Make yourself stronger than your excuses.",
+    "The only way to define your limits is by going beyond them.",
+    "Your health is an investment, not an expense.",
+    "Motivation is what gets you started. Habit is what keeps you going.",
+    "The hardest lift of all is lifting your butt off the couch.",
+    "If it doesn't challenge you, it doesn't change you."
+  ];
