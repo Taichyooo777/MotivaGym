@@ -30,15 +30,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-- Frontend: React Native / Flutter / (your choice)  
-- Backend: Firebase / Node.js / (your choice)  
-- Database: Firestore / SQLite / (your choice)  
-- Other tools: GitHub Actions, ESLint, Prettier
-
----
-
 ## 📦 Installation
 
 ```bash
