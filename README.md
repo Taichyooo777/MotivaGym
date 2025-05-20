@@ -25,8 +25,8 @@
 
 ## 📸 Screenshots
 
-> _Coming soon..._  
-(You can add screenshots or demo GIFs here.)
+![IMG_2835](https://github.com/user-attachments/assets/06e31a51-c696-4bda-9a76-a98686a056d9)
+
 
 ---
 
